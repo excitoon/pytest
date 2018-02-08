@@ -1,4 +1,4 @@
 import namespace
 
-a = namespace.Class()
+a = namespace.Class(1)
 print(namespace.Class)
